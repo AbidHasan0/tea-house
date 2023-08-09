@@ -1,0 +1,30 @@
+.color {
+   background-color: bisque;
+}
+
+.text {
+   font-size: 60px;
+
+
+}
+
+/* .card {
+   border: none;
+} */
+
+.bg-color {
+   background-color: rgb(234, 49, 49);
+
+}
+
+.btn {
+   color: #D22C34;
+}
+
+.text-t {
+   color: #ffff;
+}
+
+.bg-c {
+   background-color: rgb(249, 216, 172);
+}
